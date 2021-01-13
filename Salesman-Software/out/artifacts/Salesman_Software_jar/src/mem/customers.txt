@@ -1,0 +1,3 @@
+Homer Simpson;742 Evergreen Terrace;2.5
+Marge Simpson;742 Evergreen Terrace;0.05
+Bart Simpson;742 Evergreen Terrace;0.05
